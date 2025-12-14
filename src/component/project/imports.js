@@ -23,12 +23,14 @@ const ProjectDetails = [
     image: storefleet,
     title: "Storefleet App",
     text: "Developed a full-stack e-commerce web application enabling users to browse products, manage carts, and place secure online orders.",
+    site : "https://storefleet-app1.onrender.com",
     code : "https://github.com/vishaal98/StoreFleet",
   },
   {
     image: irctc,
     title: "IRCTC App",
     text: "Developed a train booking web application that allows users to search trains, view schedules, and book tickets in real time",
+    site : "https://irctc-app-fkhm.onrender.com",
     code: "https://github.com/rwtabhii/IRCTC-App",
   },
   {
@@ -53,6 +55,7 @@ const ProjectDetails = [
     image: photofolio,
     title: "PhotoFolio",
     text: "PhotoFolio is a photo album management web app built with React (Vite) and Firebase Firestore. It lets users create, view, and manage albums, and organize photos inside them with a clean and responsive UI.",
+    site : "https://photofolio-app-02ab.onrender.com",
     code: "https://github.com/rwtabhii/PhotoFolio-App",
   },
   {
